@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545725587 source:c:\users\asus\documents\sistem sim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545729432 source:d:\materi kuliah\dasar pemrograman\sistem sim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
